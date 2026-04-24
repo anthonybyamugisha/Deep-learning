@@ -1,0 +1,28 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.13.5",
+  "startedAt":  "2026-04-22T07:05:49.700049Z",
+  "program":  "c:\\Users\\byamu\\Desktop\\Deep Learning\\Lab 7 - Intro to deep learning.ipynb",
+  "codePath":  "c:\\Users\\byamu\\Desktop\\Deep Learning\\Lab 7 - Intro to deep learning.ipynb",
+  "codePathLocal":  "Lab 7 - Intro to deep learning.ipynb",
+  "git":  {
+    "remote":  "https://github.com/anthonybyamugisha/Deep-learning.git",
+    "commit":  "ea7ce5653c8e4034b0980d68c6817b6b9e876eb2"
+  },
+  "email":  "byamugishanthony@gmail.com",
+  "root":  "c:\\Users\\byamu\\Desktop\\Deep Learning",
+  "host":  "ANTHONY-PC",
+  "executable":  "c:\\Users\\byamu\\miniconda3\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "255170965504",
+      "used":  "174454730752"
+    }
+  },
+  "memory":  {
+    "total":  "8430010368"
+  },
+  "writerId":  "sctnwkgtycoafnjbw0z67oq5k5vhkx6e"
+}
